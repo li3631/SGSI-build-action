@@ -7,9 +7,9 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
-  ZIP_NAME: 'update.zip'
-  OS_TYPE: 'Generic'
+  ROM_URL: 'http://bigota.d.miui.com/V10.3.4.0.PEICNXM/miui_HMNote5_V10.3.4.0.PEICNXM_f9c9e6de7d_9.0.zip'
+  ZIP_NAME: 'miui_HMNote5_V10.3.4.0.PEICNXM_f9c9e6de7d_9.0.zip'
+  OS_TYPE: 'MIUI'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '12'
