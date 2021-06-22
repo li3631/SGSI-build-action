@@ -7,8 +7,8 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'http://bigota.d.miui.com/V10.3.4.0.PEICNXM/miui_HMNote5_V10.3.4.0.PEICNXM_f9c9e6de7d_9.0.zip'
-  ZIP_NAME: 'miui_HMNote5_V10.3.4.0.PEICNXM_f9c9e6de7d_9.0.zip'
+  ROM_URL: 'https://bigota.d.miui.com/V10.3.4.0.PEDCNXM/miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip'
+  ZIP_NAME: 'miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip'
   OS_TYPE: 'MIUI'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
