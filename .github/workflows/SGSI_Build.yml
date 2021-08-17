@@ -7,10 +7,10 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://bigota.d.miui.com/V12.0.2.0.QEDCNXM/miui_MIMAX3_V12.0.2.0.QEDCNXM_ab58854489_10.0.zip'
-  ZIP_NAME: 'miui_MIMAX3_V12.0.2.0.QEDCNXM_ab58854489_10.0.zip'
+  ROM_URL: 'http://bigota.d.miui.com/V10.2.7.0.PFMCNXM/miui_LAURUS_V10.2.7.0.PFMCNXM_e97f175b59_9.0.zip'
+  ZIP_NAME: 'miui_LAURUS_V10.2.7.0.PFMCNXM_e97f175b59_9.0.zip'
   OS_TYPE: 'MIUI'
-  BUILD_TYPE: 'ab'
+  BUILD_TYPE: 'a'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '12'
   upload_action-gh-release: 'true'
