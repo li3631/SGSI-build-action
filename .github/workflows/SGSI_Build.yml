@@ -9,7 +9,7 @@ on:
 env:              
   ROM_URL: 'https://jaist.dl.sourceforge.net/project/resurrectionremix-ten/x2/RROS-Q-8.7.2-20210816-x2-Official.zip'
   ZIP_NAME: 'RROS-Q-8.7.2-20210816-x2-Official.zip'
-  OS_TYPE: 'MIUI'
+  OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '10'
