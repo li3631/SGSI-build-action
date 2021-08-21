@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'http://bigota.d.miui.com/V10.2.7.0.PFMCNXM/miui_LAURUS_V10.2.7.0.PFMCNXM_e97f175b59_9.0.zip'
-  ZIP_NAME: 'miui_LAURUS_V10.2.7.0.PFMCNXM_e97f175b59_9.0.zip'
+  ROM_URL: 'https://jaist.dl.sourceforge.net/project/resurrectionremix-ten/x2/RROS-Q-8.7.2-20210816-x2-Official.zip'
+  ZIP_NAME: 'RROS-Q-8.7.2-20210816-x2-Official.zip'
   OS_TYPE: 'MIUI'
-  BUILD_TYPE: 'a'
+  BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
-  VERSION: '12'
+  VERSION: '10'
   upload_action-gh-release: 'true'
   SETUP: 'true'
   
